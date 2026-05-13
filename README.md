@@ -39,10 +39,10 @@ O frontend permite:
 # Prints 
 
 ## Tela de Eventos
-![Eventos](./files/prints/screen1.png)
+![Eventos](./front/prints/screen1.png)
 
 ## Tela de Inscrições
-![Inscrições](./files/prints/screen2.png)
+![Inscrições](./front/prints/screen2.png)
 
 ---
 
